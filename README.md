@@ -13,4 +13,4 @@ Use .py - script in conjunction with a "Windows Schaduled Task". This schaduled 
 
 If error event ID was generated, then it will send email using SMTP (must be predefined in the .py file) to the email addresse given in the .py file.
 
-# Solution was produced for legacy application and newer applicatio may not require this.
+# Solution was produced for legacy application and newer application may not require this type of solution
